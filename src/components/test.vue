@@ -9,6 +9,7 @@ data(){
     msg:'123'
   }
 }
+}
 </script>
 
 <style>
