@@ -4,7 +4,10 @@
 
 <script>
 export default {
-
+data(){
+  return{
+    msg:'123'
+  }
 }
 </script>
 
